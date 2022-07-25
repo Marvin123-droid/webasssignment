@@ -1,11 +1,8 @@
-# Inventory Management Series With FastAPI and React
+# Web Application Development Assignment Project
 
-1. FastAPI Python backend
-2. React Frontend
+## Group Members Details
 
-## Features:
-1. Sending Emails
-2. CRUD functionaity
-and so much more
+1. 136465 Gulamhussien Ally Hussein
+2. 140417 Kendy Reriani
+3. 122909 Mawanda Marvin Martin
 
-This project is part of a youtube series, find the video series at: [My channel](https://www.youtube.com/c/CodeWithPrince)
